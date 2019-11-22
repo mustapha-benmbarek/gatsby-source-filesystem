@@ -1,4 +1,4 @@
-# Gatsby / Source FileSystem <img valign="bottom" align="right" height="35px" widht="35px" src="https://www.gatsbyjs.org/gatsby-monogram.svg" />
+# Gatsby : Source FileSystem <img valign="bottom" align="right" height="35px" widht="35px" src="https://www.gatsbyjs.org/gatsby-monogram.svg" />
 
 
 ### What is in there
@@ -11,8 +11,8 @@ Gatsby is a blazing fast modern site generator for React. Gatsby is a free and o
 
 ### How make it run
 ```
-git clone https://github.com/mustapha-benmbarek/gatsby-004-source-filesystem
-cd gatsby-004-source-filesystem
+git clone https://github.com/mustapha-benmbarek/gatsby-source-filesystem
+cd gatsby-source-filesystem
 npm install 
 gatsby develop
 ```
